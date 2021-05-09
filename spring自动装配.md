@@ -14,7 +14,7 @@ spring自动装配
 
 3、
 
-
+![服务架构图](https://i.loli.net/2021/05/09/LRjPOmVQUyYlnWE.png)
 
 
 
